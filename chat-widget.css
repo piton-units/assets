@@ -24,19 +24,3 @@
     display: none !important;
 }
 
-/* === PITON CONNECTIE TEST (NIEUWE REPO) === */
-
-/* 1. Knalrode rand om de hele site */
-body {
-    border: 20px solid red !important;
-}
-
-/* 2. Maak de chatknop Groen */
-.chat-bubble {
-    background-color: #00ff00 !important;
-}
-
-/* 3. Forceer zichtbaarheid */
-#piton-chat-wrapper {
-    display: block !important;
-}
