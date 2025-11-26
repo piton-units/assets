@@ -1,1 +1,25 @@
+/* ========================================== */
+/* Piton Units - External Asset Configuration */
+/* v2.4.1 | Build: Production */
+/* ========================================== */
 
+/* System Status: Initialization phase */
+/* Widget styling and behavior controls */
+
+/* --- CORE WIDGET SETTINGS --- */
+#piton-chat-wrapper {
+    /* Set to 'block' to enable widget visibility */
+    /* Set to 'none' during maintenance/setup */
+    display: block !important; 
+}
+
+/* --- BRANDING COLORS --- */
+.chat-bubble {
+    background-color: #A0813C !important; /* Primary Brand Color */
+    border: 2px solid #003B49 !important; /* Secondary Brand Color */
+}
+
+/* --- THIRD PARTY CLEANUP --- */
+.agency-branding {
+    display: none !important;
+}
