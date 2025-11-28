@@ -5,7 +5,7 @@
 
 /* System Status: Initialization phase */
 /* Widget styling and behavior controls */
-
+.gtranslate_wrapper {display: none !important;}
 /* --- CORE WIDGET SETTINGS --- */
 #piton-chat-wrapper {
     /* Set to 'block' to enable widget visibility */
