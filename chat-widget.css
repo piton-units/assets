@@ -10,7 +10,7 @@
 #piton-chat-wrapper {
     /* Set to 'block' to enable widget visibility */
     /* Set to 'none' during maintenance/setup */
-    display: block !important; 
+    display: none !important; 
 }
 
 /* --- BRANDING COLORS --- */
